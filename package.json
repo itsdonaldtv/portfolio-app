@@ -2,7 +2,7 @@
   "name": "index",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://itsdonaldtv.github.io/",
+  "homepage": "http://itsdonaldtv.github.io/itsdonaldtv.github.io/",
   "dependencies": {
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
